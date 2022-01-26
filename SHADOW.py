@@ -15,6 +15,7 @@ from telethon.tl.functions.channels import LeaveChannelRequest
 from telethon.tl.functions.messages import ImportChatInviteRequest
 from Utils import RAID, RRAID
 
+
 a = API_ID
 b = API_HASH
 one = STRING
@@ -67,4 +68,55 @@ fourtyseven = STRING47
 fourtyeight = STRING48
 fourtynine = STRING49
 fifty = STRING50
+
+bot01 = ""
+bot02 = ""
+bot03 = ""
+bot04 = ""
+bot05 = ""
+bot06 = ""
+bot07 = ""
+bot08 = ""
+bot09 = ""
+bot10 = ""
+bot11 = ""
+bot12 = ""
+bot13 = ""
+bot14 = ""
+bot15 = ""
+bot16 = ""
+bot17 = ""
+bot18 = ""
+bot19 = ""
+bot20 = ""
+bot21 = ""
+bot22 = ""
+bot23 = ""
+bot24 = ""
+bot25 = ""
+bot26 = ""
+bot27 = ""
+bot28 = ""
+bot29 = ""
+bot30 = ""
+bot31 = ""
+bot32 = ""
+bot33 = ""
+bot34 = ""
+bot35 = ""
+bot36 = ""
+bot37 = ""
+bot38 = ""
+bot39 = ""
+bot40 = ""
+bot41 = ""
+bot42 = ""
+bot43 = ""
+bot44 = ""
+bot45 = ""
+bot46 = ""
+bot47 = ""
+bot48 = ""
+bot49 = ""
+bot50 = ""
 
