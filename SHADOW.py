@@ -123,7 +123,6 @@ bot50 = ""
 
 que = {}
 
-
 SMEX_USERS = []
 for x in SUDO: 
     SMEX_USERS.append(x)
