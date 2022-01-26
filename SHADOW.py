@@ -127,5 +127,7 @@ SMEX_USERS = []
 for x in SUDO: 
     SMEX_USERS.append(x)
 
+async def start_SHADOW():
+
 
 
