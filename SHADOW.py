@@ -14,3 +14,57 @@ from telethon.tl import functions
 from telethon.tl.functions.channels import LeaveChannelRequest
 from telethon.tl.functions.messages import ImportChatInviteRequest
 from Utils import RAID, RRAID
+
+a = API_ID
+b = API_HASH
+one = STRING
+two = STRING2
+three = STRING3
+four = STRING4
+five = STRING5
+sixth = STRING6
+seven = STRING7
+eight = STRING8
+ninth = STRING9
+tenth = STRING10
+eleven = STRING11
+twelve = STRING12
+thirteen = STRING13
+fourteen = STRING14
+fifteen = STRING15
+sixteen = STRING16
+seventeen = STRING17
+eighteen = STRING18
+nineteen = STRING19
+twenty = STRING20
+twentyone = STRING21
+twentytwo = STRING22
+twentythree = STRING23
+twentyfour = STRING24
+twentyfive = STRING25
+twentysix = STRING26
+twentyseven = STRING27
+twentyeight = STRING28
+twentynine = STRING29
+thirty = STRING30
+thirtyone = STRING31
+thirtytwo = STRING32
+thirtythree = STRING33
+thirtyfour = STRING34
+thirtyfive = STRING35
+thirtysix = STRING36
+thirtyseven = STRING37
+thirtyeight = STRING38
+thirtynine = STRING39
+fourty = STRING40
+fourtyone = STRING41
+fourtytwo = STRING42
+fourtythree = STRING43
+fourtyfour = STRING44
+fourtyfive = STRING45
+fourtysix = STRING46
+fourtyseven = STRING47
+fourtyeight = STRING48
+fourtynine = STRING49
+fifty = STRING50
+
