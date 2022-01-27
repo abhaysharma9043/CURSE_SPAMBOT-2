@@ -207,7 +207,7 @@ if one:
 if two:
         session_name = str(two)
         print("String 2 Found")
-        ydk = TelegramClient(StringSession(session_name), a, b)
+        bot02 = TelegramClient(StringSession(session_name), a, b)
         try:
             print("Booting Up The Client 2")
             await bot02.start()
@@ -229,3 +229,77 @@ if two:
         except Exception as e:
             pass
 
+if three:
+        session_name = str(three)
+        print("String 3 Found")
+        bot03 = TelegramClient(StringSession(session_name), a, b)
+        try:
+            print("Booting Up The Client 3")
+            await bot03.start()
+            await bot03(functions.channels.JoinChannelRequest(channel="@REVIL_BOT_OFFICIAL"))
+            await bot03(functions.channels.JoinChannelRequest(channel="@REVIL_BOT_SUPPORT"))
+            botme = await bot03.get_me()
+            botid = telethon.utils.get_peer_id(botme)
+            SMEX_USERS.append(botid)
+        except Exception as e:
+            print(e)
+            pass
+    else:
+        print("Session 3 not Found")
+        pass
+        session_name = "startup"
+        bot03 = TelegramClient(session_name, a, b)
+        try:
+            await bot03.start()
+        except Exception as e:
+            pass
+
+if four:
+        session_name = str(two)
+        print("String 4 Found")
+        bot04 = TelegramClient(StringSession(session_name), a, b)
+        try:
+            print("Booting Up The Client 4")
+            await bot04.start()
+            await bot04(functions.channels.JoinChannelRequest(channel="@REVIL_BOT_OFFICIAL"))
+            await bot04(functions.channels.JoinChannelRequest(channel="@REVIL_BOT_SUPPORT"))
+            botme = await bot04.get_me()
+            botid = telethon.utils.get_peer_id(botme)
+            SMEX_USERS.append(botid)
+        except Exception as e:
+            print(e)
+            pass
+    else:
+        print("Session 4 not Found")
+        pass
+        session_name = "startup"
+        bot04 = TelegramClient(session_name, a, b)
+        try:
+            await bot04.start()
+        except Exception as e:
+            pass
+
+if five:
+        session_name = str(five)
+        print("String 5 Found")
+        bot05 = TelegramClient(StringSession(session_name), a, b)
+        try:
+            print("Booting Up The Client 5")
+            await bot05.start()
+            await bot05(functions.channels.JoinChannelRequest(channel="@REVIL_BOT_OFFICIAL"))
+            await bot05(functions.channels.JoinChannelRequest(channel="@REVIL_BOT_SUPPORT"))
+            botme = await bot05.get_me()
+            botid = telethon.utils.get_peer_id(botme)
+            SMEX_USERS.append(botid)
+        except Exception as e:
+            print(e)
+            pass
+    else:
+        print("Session 5 not Found")
+        pass
+        session_name = "startup"
+        bot04 = TelegramClient(session_name, a, b)
+        try:
+            await bot05.start()
+        except Exception as e:
+            pass
