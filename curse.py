@@ -228,3 +228,29 @@ if two:
             await bot02.start()
         except Exception as e:
             pass
+
+if three:
+        session_name = str(three)
+        print("String 3 Found")
+        bot03 = TelegramClient(StringSession(session_name), a, b)
+        try:
+            print("Booting Up The Client 3")
+            await bot03.start()
+            await bot03(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT"))
+            await bot03(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT_SUPPORT"))
+            botme = await bot03.get_me()
+            botid = telethon.utils.get_peer_id(botme)
+            SMEX_USERS.append(botid)
+        except Exception as e:
+            print(e)
+            pass
+    else:
+        print("Session 3 not Found")
+        pass
+        session_name = "startup"
+        bot03 = TelegramClient(session_name, a, b)
+        try:
+            await bot03.start()
+        except Exception as e:
+            pass
+
