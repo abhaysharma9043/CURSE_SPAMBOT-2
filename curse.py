@@ -180,19 +180,19 @@ global bot49
 global bot50
 
 if one:
-        session_name = str(smex)
+        session_name = str(one)
         print("String 1 Found")
         bot01 = TelegramClient(StringSession(session_name), a, b)
         try:
             print("Booting Up The Client 1")
-            await bot1.start()
-            botme = await Bot1.get_me()
-            await bot1(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT"))
-            await bot1(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT_SUPPORT"))
+            await bot01.start()
+            botme = await Bot01.get_me()
+            await bot01(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT"))
+            await bot01(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT_SUPPORT"))
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
         except Exception as e:
-            bot01 = "smex"
+            bot01 = "one"
             print(e)
             pass
     else:
@@ -201,6 +201,31 @@ if one:
         bot01 = TelegramClient(session_name, a, b)
         try:
             await bot01.start()
+        except Exception as e:
+            pass
+
+if two:
+        session_name = str(two)
+        print("String 2 Found")
+        ydk = TelegramClient(StringSession(session_name), a, b)
+        try:
+            print("Booting Up The Client 2")
+            await bot02.start()
+            await bot02(functions.channels.JoinChannelRequest(channel="@REVIL_BOT_OFFICIAL"))
+            await bot02(functions.channels.JoinChannelRequest(channel="@REVIL_BOT_SUPPORT"))
+            botme = await bot02.get_me()
+            botid = telethon.utils.get_peer_id(botme)
+            SMEX_USERS.append(botid)
+        except Exception as e:
+            print(e)
+            pass
+    else:
+        print("Session 2 not Found")
+        pass
+        session_name = "startup"
+        bot02 = TelegramClient(session_name, a, b)
+        try:
+            await bot02.start()
         except Exception as e:
             pass
 
