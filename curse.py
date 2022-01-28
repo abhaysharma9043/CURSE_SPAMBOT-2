@@ -1498,6 +1498,14 @@ async def gifspam(e, smex):
 @bot48.on(events.NewMessage(incoming=True, pattern=r"\.ping"))
 @bot49.on(events.NewMessage(incoming=True, pattern=r"\.ping"))
 @bot50.on(events.NewMessage(incoming=True, pattern=r"\.ping"))
+async def ping(e):
+    if e.sender_id in SMEX_USERS:
+        start = datetime.now()
+        text = "Pong!"
+        event = await e.reply(text, parse_mode=None, link_preview=None)
+        end = datetime.now()
+        ms = (end - start).microseconds / 1000
+        await event.edit(f"𒅒𝐒𝐏𝐄𝐄𝐃!\n`{ms}` 𝗺𝘀\n  ✡⚔𝐂𝐔𝐑𝐒𝐄 𝐒𝐏𝐀𝐌𝐁𝐎𝐓⚔✡")
 
 
 
