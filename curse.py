@@ -1508,6 +1508,216 @@ async def ping(e):
         await event.edit(f"𒅒𝐒𝐏𝐄𝐄𝐃!\n`{ms}` 𝗺𝘀\n  ✡⚔𝐂𝐔𝐑𝐒𝐄 𝐒𝐏𝐀𝐌𝐁𝐎𝐓⚔✡")
 
 
+text = """ """
+
+print(text)
+print("")
+print(
+    "CONGRATULATIONS 🥳🥳..UR Spam Bots Ready to use"
+)
+if len(sys.argv) not in (1, 3, 4):
+    try:
+        bot01.disconnect()
+    except Exception:
+        pass
+    try:
+        bot02.disconnect()
+    except Exception:
+        pass
+    try:
+        bot03.disconnect()
+    except Exception:
+        pass
+    try:
+        bot04.disconnect()
+    except Exception:
+        pass
+    try:
+        bot05.disconnect()
+    except Exception:
+        pass
+    try:
+        bot06.disconnect()
+    except Exception:
+        pass
+    try:
+        bot07.disconnect()
+    except Exception:
+        pass
+    try:
+        bot08.disconnect()
+    except Exception:
+        pass
+    try:
+        bot09.disconnect()
+    except Exception:
+        pass
+    try:
+        bot10.disconnect()
+    except Exception:
+        pass
+try:
+        bot11.disconnect()
+    except Exception:
+        pass
+try:
+        bot12.disconnect()
+    except Exception:
+        pass
+try:
+        bot13.disconnect()
+    except Exception:
+        pass
+try:
+        bot14.disconnect()
+    except Exception:
+        pass
+try:
+        bot15.disconnect()
+    except Exception:
+        pass
+try:
+        bot16.disconnect()
+    except Exception:
+        pass
+try:
+        bot17.disconnect()
+    except Exception:
+        pass
+try:
+        bot18.disconnect()
+    except Exception:
+        pass
+try:
+        bot19.disconnect()
+    except Exception:
+        pass
+try:
+        bot20.disconnect()
+    except Exception:
+        pass
+try:
+        bot21.disconnect()
+    except Exception:
+        pass
+try:
+        bot22.disconnect()
+    except Exception:
+        pass
+try:
+        bot23.disconnect()
+    except Exception:
+        pass
+try:
+        bot24.disconnect()
+    except Exception:
+        pass
+try:
+        bot25.disconnect()
+    except Exception:
+        pass
+try:
+        bot26.disconnect()
+    except Exception:
+        pass
+try:
+        bot27.disconnect()
+    except Exception:
+        pass
+try:
+        bot28.disconnect()
+    except Exception:
+        pass
+try:
+        bot29.disconnect()
+    except Exception:
+        pass
+try:
+        bot30.disconnect()
+    except Exception:
+        pass
+try:
+        bot31.disconnect()
+    except Exception:
+        pass
+try:
+        bot32.disconnect()
+    except Exception:
+        pass
+try:
+        bot33.disconnect()
+    except Exception:
+        pass
+try:
+        bot34.disconnect()
+    except Exception:
+        pass
+try:
+        bot35.disconnect()
+    except Exception:
+        pass
+try:
+        bot36.disconnect()
+    except Exception:
+        pass
+try:
+        bot37.disconnect()
+    except Exception:
+        pass
+try:
+        bot38.disconnect()
+    except Exception:
+        pass
+try:
+        bot39.disconnect()
+    except Exception:
+        pass
+try:
+        bot40.disconnect()
+    except Exception:
+        pass
+try:
+        bot41.disconnect()
+    except Exception:
+        pass
+try:
+        bot42.disconnect()
+    except Exception:
+        pass
+try:
+        bot43.disconnect()
+    except Exception:
+        pass
+try:
+        bot44.disconnect()
+    except Exception:
+        pass
+try:
+        bot45.disconnect()
+    except Exception:
+        pass
+try:
+        bot46.disconnect()
+    except Exception:
+        pass
+try:
+        bot47.disconnect()
+    except Exception:
+        pass
+try:
+        bot48.disconnect()
+    except Exception:
+        pass
+try:
+        bot49.disconnect()
+    except Exception:
+        pass
+try:
+        bot50.disconnect()
+    except Exception:
+        pass
+
+
 
 
 
