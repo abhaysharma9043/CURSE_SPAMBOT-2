@@ -978,6 +978,457 @@ if thirtytwo:
         except Exception as e:
             pass
 
+if thirtythree:
+        session_name = str(thirtythree)
+        print("String 33 Found")
+        bot33 = TelegramClient(StringSession(session_name), a, b)
+        try:
+            print("Booting Up The Client 33")
+            await bot33.start()
+            await bot33(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT"))
+            await bot33(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT_SUPPORT"))
+            botme = await bot33.get_me()
+            botid = telethon.utils.get_peer_id(botme)
+            SMEX_USERS.append(botid)
+        except Exception as e:
+            print(e)
+            pass
+    else:
+        print("Session 33 not Found")
+        pass
+        session_name = "startup"
+        bot33 = TelegramClient(session_name, a, b)
+        try:
+            await bot33.start()
+        except Exception as e:
+            pass
+
+if thirtyfour:
+        session_name = str(thirtyfour)
+        print("String 34 Found")
+        bot34 = TelegramClient(StringSession(session_name), a, b)
+        try:
+            print("Booting Up The Client 34")
+            await bot34.start()
+            await bot34(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT"))
+            await bot34(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT_SUPPORT"))
+            botme = await bot34.get_me()
+            botid = telethon.utils.get_peer_id(botme)
+            SMEX_USERS.append(botid)
+        except Exception as e:
+            print(e)
+            pass
+    else:
+        print("Session 34 not Found")
+        pass
+        session_name = "startup"
+        bot34 = TelegramClient(session_name, a, b)
+        try:
+            await bot34.start()
+        except Exception as e:
+            pass
+
+if thirtyfive:
+        session_name = str(thirtyfive)
+        print("String 35 Found")
+        bot35 = TelegramClient(StringSession(session_name), a, b)
+        try:
+            print("Booting Up The Client 35")
+            await bot35.start()
+            await bot35(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT"))
+            await bot35(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT_SUPPORT"))
+            botme = await bot35.get_me()
+            botid = telethon.utils.get_peer_id(botme)
+            SMEX_USERS.append(botid)
+        except Exception as e:
+            print(e)
+            pass
+    else:
+        print("Session 35 not Found")
+        pass
+        session_name = "startup"
+        bot35 = TelegramClient(session_name, a, b)
+        try:
+            await bot35.start()
+        except Exception as e:
+            pass
+
+if thirtysix:
+        session_name = str(thirtysix)
+        print("String 36 Found")
+        bot36 = TelegramClient(StringSession(session_name), a, b)
+        try:
+            print("Booting Up The Client 36")
+            await bot36.start()
+            await bot36(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT"))
+            await bot36(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT_SUPPORT"))
+            botme = await bot36.get_me()
+            botid = telethon.utils.get_peer_id(botme)
+            SMEX_USERS.append(botid)
+        except Exception as e:
+            print(e)
+            pass
+    else:
+        print("Session 36 not Found")
+        pass
+        session_name = "startup"
+        bot36 = TelegramClient(session_name, a, b)
+        try:
+            await bot36.start()
+        except Exception as e:
+            pass
+
+if thirtyseven:
+        session_name = str(thirtyseven)
+        print("String 37 Found")
+        bot37 = TelegramClient(StringSession(session_name), a, b)
+        try:
+            print("Booting Up The Client 37")
+            await bot37.start()
+            await bot37(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT"))
+            await bot37(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT_SUPPORT"))
+            botme = await bot37.get_me()
+            botid = telethon.utils.get_peer_id(botme)
+            SMEX_USERS.append(botid)
+        except Exception as e:
+            print(e)
+            pass
+    else:
+        print("Session 37 not Found")
+        pass
+        session_name = "startup"
+        bot37 = TelegramClient(session_name, a, b)
+        try:
+            await bot37.start()
+        except Exception as e:
+            pass
+
+if thirtyeight:
+        session_name = str(thirtyeight)
+        print("String 38 Found")
+        bot38 = TelegramClient(StringSession(session_name), a, b)
+        try:
+            print("Booting Up The Client 38")
+            await bot38.start()
+            await bot38(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT"))
+            await bot38(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT_SUPPORT"))
+            botme = await bot38.get_me()
+            botid = telethon.utils.get_peer_id(botme)
+            SMEX_USERS.append(botid)
+        except Exception as e:
+            print(e)
+            pass
+    else:
+        print("Session 38 not Found")
+        pass
+        session_name = "startup"
+        bot38 = TelegramClient(session_name, a, b)
+        try:
+            await bot38.start()
+        except Exception as e:
+            pass
+
+if thirtynine:
+        session_name = str(thirtynine)
+        print("String 39 Found")
+        bot39 = TelegramClient(StringSession(session_name), a, b)
+        try:
+            print("Booting Up The Client 39")
+            await bot39.start()
+            await bot39(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT"))
+            await bot39(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT_SUPPORT"))
+            botme = await bot39.get_me()
+            botid = telethon.utils.get_peer_id(botme)
+            SMEX_USERS.append(botid)
+        except Exception as e:
+            print(e)
+            pass
+    else:
+        print("Session 39 not Found")
+        pass
+        session_name = "startup"
+        bot39 = TelegramClient(session_name, a, b)
+        try:
+            await bot39.start()
+        except Exception as e:
+            pass
+
+if fourty:
+        session_name = str(fourty)
+        print("String 40 Found")
+        bot40 = TelegramClient(StringSession(session_name), a, b)
+        try:
+            print("Booting Up The Client 40")
+            await bot40.start()
+            await bot40(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT"))
+            await bot40(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT_SUPPORT"))
+            botme = await bot40.get_me()
+            botid = telethon.utils.get_peer_id(botme)
+            SMEX_USERS.append(botid)
+        except Exception as e:
+            print(e)
+            pass
+    else:
+        print("Session 40 not Found")
+        pass
+        session_name = "startup"
+        bot40 = TelegramClient(session_name, a, b)
+        try:
+            await bot40.start()
+        except Exception as e:
+            pass
+
+if fourtyone:
+        session_name = str(fourtyone)
+        print("String 41 Found")
+        bot41 = TelegramClient(StringSession(session_name), a, b)
+        try:
+            print("Booting Up The Client 41")
+            await bot41.start()
+            await bot41(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT"))
+            await bot41(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT_SUPPORT"))
+            botme = await bot41.get_me()
+            botid = telethon.utils.get_peer_id(botme)
+            SMEX_USERS.append(botid)
+        except Exception as e:
+            print(e)
+            pass
+    else:
+        print("Session 41 not Found")
+        pass
+        session_name = "startup"
+        bot41 = TelegramClient(session_name, a, b)
+        try:
+            await bot41.start()
+        except Exception as e:
+            pass
+
+if fourtytwo:
+        session_name = str(fourtytwo)
+        print("String 42 Found")
+        bot42 = TelegramClient(StringSession(session_name), a, b)
+        try:
+            print("Booting Up The Client 42")
+            await bot42.start()
+            await bot42(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT"))
+            await bot42(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT_SUPPORT"))
+            botme = await bot42.get_me()
+            botid = telethon.utils.get_peer_id(botme)
+            SMEX_USERS.append(botid)
+        except Exception as e:
+            print(e)
+            pass
+    else:
+        print("Session 42 not Found")
+        pass
+        session_name = "startup"
+        bot42 = TelegramClient(session_name, a, b)
+        try:
+            await bot42.start()
+        except Exception as e:
+            pass
+
+if fourtythree:
+        session_name = str(fourtythree)
+        print("String 43 Found")
+        bot43 = TelegramClient(StringSession(session_name), a, b)
+        try:
+            print("Booting Up The Client 43")
+            await bot43.start()
+            await bot43(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT"))
+            await bot43(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT_SUPPORT"))
+            botme = await bot43.get_me()
+            botid = telethon.utils.get_peer_id(botme)
+            SMEX_USERS.append(botid)
+        except Exception as e:
+            print(e)
+            pass
+    else:
+        print("Session 43 not Found")
+        pass
+        session_name = "startup"
+        bot43 = TelegramClient(session_name, a, b)
+        try:
+            await bot43.start()
+        except Exception as e:
+            pass
+
+if fourtyfour:
+        session_name = str(fourtyfour)
+        print("String 44 Found")
+        bot44 = TelegramClient(StringSession(session_name), a, b)
+        try:
+            print("Booting Up The Client 44")
+            await bot44.start()
+            await bot44(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT"))
+            await bot44(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT_SUPPORT"))
+            botme = await bot44.get_me()
+            botid = telethon.utils.get_peer_id(botme)
+            SMEX_USERS.append(botid)
+        except Exception as e:
+            print(e)
+            pass
+    else:
+        print("Session 44 not Found")
+        pass
+        session_name = "startup"
+        bot44 = TelegramClient(session_name, a, b)
+        try:
+            await bot44.start()
+        except Exception as e:
+            pass
+
+if fourtyfive:
+        session_name = str(fourtyfive)
+        print("String 45 Found")
+        bot45 = TelegramClient(StringSession(session_name), a, b)
+        try:
+            print("Booting Up The Client 45")
+            await bot45.start()
+            await bot45(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT"))
+            await bot45(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT_SUPPORT"))
+            botme = await bot45.get_me()
+            botid = telethon.utils.get_peer_id(botme)
+            SMEX_USERS.append(botid)
+        except Exception as e:
+            print(e)
+            pass
+    else:
+        print("Session 45 not Found")
+        pass
+        session_name = "startup"
+        bot45 = TelegramClient(session_name, a, b)
+        try:
+            await bot45.start()
+        except Exception as e:
+            pass
+
+if fourtysix:
+        session_name = str(fourtysix)
+        print("String 46 Found")
+        bot46 = TelegramClient(StringSession(session_name), a, b)
+        try:
+            print("Booting Up The Client 46")
+            await bot46.start()
+            await bot46(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT"))
+            await bot46(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT_SUPPORT"))
+            botme = await bot46.get_me()
+            botid = telethon.utils.get_peer_id(botme)
+            SMEX_USERS.append(botid)
+        except Exception as e:
+            print(e)
+            pass
+    else:
+        print("Session 46 not Found")
+        pass
+        session_name = "startup"
+        bot46 = TelegramClient(session_name, a, b)
+        try:
+            await bot46.start()
+        except Exception as e:
+            pass
+
+if fourtyseven:
+        session_name = str(fourtyseven)
+        print("String 47 Found")
+        bot47 = TelegramClient(StringSession(session_name), a, b)
+        try:
+            print("Booting Up The Client 47")
+            await bot47.start()
+            await bot47(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT"))
+            await bot47(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT_SUPPORT"))
+            botme = await bot47.get_me()
+            botid = telethon.utils.get_peer_id(botme)
+            SMEX_USERS.append(botid)
+        except Exception as e:
+            print(e)
+            pass
+    else:
+        print("Session 47 not Found")
+        pass
+        session_name = "startup"
+        bot47 = TelegramClient(session_name, a, b)
+        try:
+            await bot47.start()
+        except Exception as e:
+            pass
+
+if fourtyeight:
+        session_name = str(fourtyeight)
+        print("String 48 Found")
+        bot48 = TelegramClient(StringSession(session_name), a, b)
+        try:
+            print("Booting Up The Client 48")
+            await bot48.start()
+            await bot48(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT"))
+            await bot48(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT_SUPPORT"))
+            botme = await bot48.get_me()
+            botid = telethon.utils.get_peer_id(botme)
+            SMEX_USERS.append(botid)
+        except Exception as e:
+            print(e)
+            pass
+    else:
+        print("Session 48 not Found")
+        pass
+        session_name = "startup"
+        bot48 = TelegramClient(session_name, a, b)
+        try:
+            await bot48.start()
+        except Exception as e:
+            pass
+
+if fourtynine:
+        session_name = str(fourtynine)
+        print("String 49 Found")
+        bot49 = TelegramClient(StringSession(session_name), a, b)
+        try:
+            print("Booting Up The Client 49")
+            await bot49.start()
+            await bot49(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT"))
+            await bot49(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT_SUPPORT"))
+            botme = await bot49.get_me()
+            botid = telethon.utils.get_peer_id(botme)
+            SMEX_USERS.append(botid)
+        except Exception as e:
+            print(e)
+            pass
+    else:
+        print("Session 49 not Found")
+        pass
+        session_name = "startup"
+        bot49 = TelegramClient(session_name, a, b)
+        try:
+            await bot49.start()
+        except Exception as e:
+            pass
+
+if fifty:
+        session_name = str(fifty)
+        print("String 50 Found")
+        bot50 = TelegramClient(StringSession(session_name), a, b)
+        try:
+            print("Booting Up The Client 50")
+            await bot50.start()
+            await bot50(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT"))
+            await bot50(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT_SUPPORT"))
+            botme = await bot50.get_me()
+            botid = telethon.utils.get_peer_id(botme)
+            SMEX_USERS.append(botid)
+        except Exception as e:
+            print(e)
+            pass
+    else:
+        print("Session 50 not Found")
+        pass
+        session_name = "startup"
+        bot50 = TelegramClient(session_name, a, b)
+        try:
+            await bot50.start()
+        except Exception as e:
+            print(e)
+            pass
+
 
 
 
