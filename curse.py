@@ -1716,13 +1716,204 @@ try:
         bot50.disconnect()
     except Exception:
         pass
-
-
-
-
-
-
-
-
-
-
+else:
+    try:
+        bot01.run_until_disconnected()
+    except Exception:
+        pass
+    try:
+bot02.run_until_disconnected()
+    except Exception:
+        pass
+    try:
+bot03.run_until_disconnected()
+    except Exception:
+        pass
+    try:
+bot04.run_until_disconnected()
+    except Exception:
+        pass
+    try:
+bot05.run_until_disconnected()
+    except Exception:
+        pass
+    try:
+bot06.run_until_disconnected()
+    except Exception:
+        pass
+    try:
+bot07.run_until_disconnected()
+    except Exception:
+        pass
+    try:
+bot08.run_until_disconnected()
+    except Exception:
+        pass
+    try:
+bot09.run_until_disconnected()
+    except Exception:
+        pass
+    try:
+bot10.run_until_disconnected()
+    except Exception:
+        pass
+    try:
+bot11.run_until_disconnected()
+    except Exception:
+        pass
+    try:
+bot12.run_until_disconnected()
+    except Exception:
+        pass
+    try:
+bot13.run_until_disconnected()
+    except Exception:
+        pass
+    try:
+bot14.run_until_disconnected()
+    except Exception:
+        pass
+    try:
+bot15.run_until_disconnected()
+    except Exception:
+        pass
+    try:
+bot16.run_until_disconnected()
+    except Exception:
+        pass
+    try:
+bot17.run_until_disconnected()
+    except Exception:
+        pass
+    try:
+bot18.run_until_disconnected()
+    except Exception:
+        pass
+    try:
+bot19.run_until_disconnected()
+    except Exception:
+        pass
+    try:
+bot20.run_until_disconnected()
+    except Exception:
+        pass
+    try:
+bot21.run_until_disconnected()
+    except Exception:
+        pass
+    try:
+bot22.run_until_disconnected()
+    except Exception:
+        pass
+    try:
+bot23.run_until_disconnected()
+    except Exception:
+        pass
+    try:
+bot24.run_until_disconnected()
+    except Exception:
+        pass
+    try:
+bot25.run_until_disconnected()
+    except Exception:
+        pass
+    try:
+bot26.run_until_disconnected()
+    except Exception:
+        pass
+    try:
+bot27.run_until_disconnected()
+    except Exception:
+        pass
+    try:
+bot28.run_until_disconnected()
+    except Exception:
+        pass
+    try:
+bot29.run_until_disconnected()
+    except Exception:
+        pass
+    try:
+bot30.run_until_disconnected()
+    except Exception:
+        pass
+    try:
+bot31.run_until_disconnected()
+    except Exception:
+        pass
+    try:
+bot32.run_until_disconnected()
+    except Exception:
+        pass
+    try:
+bot33.run_until_disconnected()
+    except Exception:
+        pass
+    try:
+bot34.run_until_disconnected()
+    except Exception:
+        pass
+    try:
+bot35.run_until_disconnected()
+    except Exception:
+        pass
+    try:
+bot36.run_until_disconnected()
+    except Exception:
+        pass
+    try:
+bot37.run_until_disconnected()
+    except Exception:
+        pass
+    try:
+bot38.run_until_disconnected()
+    except Exception:
+        pass
+    try:
+bot39.run_until_disconnected()
+    except Exception:
+        pass
+    try:
+bot40.run_until_disconnected()
+    except Exception:
+        pass
+    try:
+bot41.run_until_disconnected()
+    except Exception:
+        pass
+    try:
+bot42.run_until_disconnected()
+    except Exception:
+        pass
+    try:
+bot43.run_until_disconnected()
+    except Exception:
+        pass
+    try:
+bot44.run_until_disconnected()
+    except Exception:
+        pass
+    try:
+bot45.run_until_disconnected()
+    except Exception:
+        pass
+    try:
+bot46.run_until_disconnected()
+    except Exception:
+        pass
+    try:
+bot47.run_until_disconnected()
+    except Exception:
+        pass
+    try:
+bot48.run_until_disconnected()
+    except Exception:
+        pass
+    try:
+bot49.run_until_disconnected()
+    except Exception:
+        pass
+    try:
+bot50.run_until_disconnected()
+    except Exception:
+        pass
