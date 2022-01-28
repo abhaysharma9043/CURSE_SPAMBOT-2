@@ -1429,6 +1429,8 @@ if fifty:
             print(e)
             pass
 
+loop = asyncio.get_event_loop()
+loop.run_until_complete(start_evil())
 
 
 
