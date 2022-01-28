@@ -254,3 +254,27 @@ if three:
         except Exception as e:
             pass
 
+if four:
+        session_name = str(four)
+        print("String 4 Found")
+        bot04 = TelegramClient(StringSession(session_name), a, b)
+        try:
+            print("Booting Up The Client 4")
+            await bot04.start()
+            await bot04(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT"))
+            await bot04(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT_SUPPORT"))
+            botme = await bot04.get_me()
+            botid = telethon.utils.get_peer_id(botme)
+            SMEX_USERS.append(botid)
+        except Exception as e:
+            print(e)
+            pass
+    else:
+        print("Session 4 not Found")
+        pass
+        session_name = "startup"
+        bot04 = TelegramClient(session_name, a, b)
+        try:
+            await bot04.start()
+        except Exception as e:
+            pass
