@@ -68,7 +68,7 @@ fourtyeight = STRING48
 fourtynine = STRING49
 fifty = STRING50
 
-bot01 = ""
+bot = ""
 bot02 = ""
 bot03 = ""
 bot04 = ""
@@ -181,25 +181,25 @@ global bot50
 if one:
         session_name = str(one)
         print("String 1 Found")
-        bot01 = TelegramClient(StringSession(session_name), a, b)
+        bot = TelegramClient(StringSession(session_name), a, b)
         try:
             print("Booting Up The Client 1")
-            await bot01.start()
-            botme = await Bot01.get_me()
-            await bot01(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT"))
-            await bot01(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT_SUPPORT"))
+            await bot.start()
+            botme = await Bot.get_me()
+            await bot(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT"))
+            await bot(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT_SUPPORT"))
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
         except Exception as e:
-            bot01 = "one"
+            bot = "one"
             print(e)
             pass
     else:
         print("Session 1 not Found")
         session_name = "startup"
-        bot01 = TelegramClient(session_name, a, b)
+        bot = TelegramClient(session_name, a, b)
         try:
-            await bot01.start()
+            await bot.start()
         except Exception as e:
             pass
 
@@ -1447,7 +1447,7 @@ async def gifspam(e, smex):
     except Exception as e:
         pass
 
-@bot01.on(events.NewMessage(incoming=True, pattern=r"\.ping"))
+@bot.on(events.NewMessage(incoming=True, pattern=r"\.ping"))
 @bot02.on(events.NewMessage(incoming=True, pattern=r"\.ping"))
 @bot03.on(events.NewMessage(incoming=True, pattern=r"\.ping"))
 @bot04.on(events.NewMessage(incoming=True, pattern=r"\.ping"))
@@ -1516,7 +1516,7 @@ print(
 )
 if len(sys.argv) not in (1, 3, 4):
     try:
-        bot01.disconnect()
+        bot.disconnect()
     except Exception:
         pass
     try:
@@ -1717,7 +1717,7 @@ try:
         pass
 else:
     try:
-        bot01.run_until_disconnected()
+        bot.run_until_disconnected()
     except Exception:
         pass
     try:
