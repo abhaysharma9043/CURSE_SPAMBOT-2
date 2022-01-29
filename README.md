@@ -10,4 +10,5 @@
 
 
 #DEPLOY LINK
-https://dashboard.heroku.com/new?template=https://github.com/ALCOHOLICOWNER/CURSE_SPAMBOT
+[![♡︎ᗪᗴᑭᒪOY](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/GodLuciferXD/LuciferSpamBot.git)
+
