@@ -266,6 +266,7 @@
         "description": "Bot String Session",
         "value": "",
         "required": false
+      },
         "SUDO_USERS": {
         "description": "Sudo Users Id",
         "value": "",
