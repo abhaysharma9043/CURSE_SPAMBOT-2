@@ -6,5 +6,8 @@
 𝗡𝗢 𝗜𝗗 𝗕𝗔𝗡𝗡𝗘𝗗 𝗥𝗘𝗟𝗔𝗧𝗘𝗗 𝗜𝗦𝗦𝗨𝗘 𝗖𝗔𝗡 𝗙𝗔𝗖𝗘 𝗜𝗡 𝗧𝗛𝗜𝗦 𝗦𝗣𝗔𝗠𝗕𝗢𝗧
 
 𝗧𝗛𝗜𝗦 𝗦𝗣𝗔𝗠𝗕𝗢𝗧 𝗪𝗔𝗦 𝗙𝗔𝗦𝗧 𝗖𝗢𝗠𝗣𝗔𝗥𝗘 𝗧𝗢 𝗢𝗧𝗛𝗘𝗥 𝗦𝗣𝗔𝗠𝗕𝗢𝗧 𝗘𝗩𝗘𝗥𝗬 𝗖𝗢𝗠𝗠𝗔𝗡𝗗 𝗧𝗔𝗞𝗘 𝗟𝗘𝗦𝗦 𝗗𝗨𝗥𝗔𝗧𝗜𝗢𝗡 𝗧𝗢 𝗖𝗢𝗠𝗣𝗟𝗘𝗧𝗘 𝗧𝗛𝗘 𝗧𝗔𝗦𝗞
-DEPLOY LINK 
-(https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ALCOHOLICOWNER/CURSE_SPAMBOT)
+
+
+
+#DEPLOY LINK
+https://dashboard.heroku.com/new?template=https://github.com/ALCOHOLICOWNER/CURSE_SPAMBOT
