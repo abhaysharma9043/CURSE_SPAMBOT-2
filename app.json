@@ -67,6 +67,205 @@
         "value": "",
         "required": false
       },
+        "STRING11": {
+        "description": "Bot String Session",
+        "value": "",
+        "required": false
+      },
+        "STRING12": {
+        "description": "Bot String Session",
+        "value": "",
+        "required": false
+      },
+        "STRING13": {
+        "description": "Bot String Session",
+        "value": "",
+        "required": false
+      },
+        "STRING14": {
+        "description": "Bot String Session",
+        "value": "",
+        "required": false
+      },
+        "STRING15": {
+        "description": "Bot String Session",
+        "value": "",
+        "required": false
+      },
+        "STRING16": {
+        "description": "Bot String Session",
+        "value": "",
+        "required": false
+      },
+        "STRING17": {
+        "description": "Bot String Session",
+        "value": "",
+        "required": false
+      },
+        "STRING18": {
+        "description": "Bot String Session",
+        "value": "",
+        "required": false
+      },
+        "STRING19": {
+        "description": "Bot String Session",
+        "value": "",
+        "required": false
+      },
+        "STRING20": {
+        "description": "Bot String Session",
+        "value": "",
+        "required": false
+      },
+        "STRING21": {
+        "description": "Bot String Session",
+        "value": "",
+        "required": false
+      },
+        "STRING22": {
+        "description": "Bot String Session",
+        "value": "",
+        "required": false
+      },
+        "STRING23": {
+        "description": "Bot String Session",
+        "value": "",
+        "required": false
+      },
+        "STRING24": {
+        "description": "Bot String Session",
+        "value": "",
+        "required": false
+      },
+        "STRING25": {
+        "description": "Bot String Session",
+        "value": "",
+        "required": false
+      },
+        "STRING26": {
+        "description": "Bot String Session",
+        "value": "",
+        "required": false
+      },
+        "STRING27": {
+        "description": "Bot String Session",
+        "value": "",
+        "required": false
+      },
+        "STRING28": {
+        "description": "Bot String Session",
+        "value": "",
+        "required": false
+      },
+        "STRING29": {
+        "description": "Bot String Session",
+        "value": "",
+        "required": false
+      },
+        "STRING30": {
+        "description": "Bot String Session",
+        "value": "",
+        "required": false
+      },
+        "STRING31": {
+        "description": "Bot String Session",
+        "value": "",
+        "required": false
+      },
+        "STRING32": {
+        "description": "Bot String Session",
+        "value": "",
+        "required": false
+      },
+        "STRING33": {
+        "description": "Bot String Session",
+        "value": "",
+        "required": false
+      },
+        "STRING34": {
+        "description": "Bot String Session",
+        "value": "",
+        "required": false
+      },
+        "STRING35": {
+        "description": "Bot String Session",
+        "value": "",
+        "required": false
+      },
+        "STRING36": {
+        "description": "Bot String Session",
+        "value": "",
+        "required": false
+      },
+        "STRING37": {
+        "description": "Bot String Session",
+        "value": "",
+        "required": false
+      },
+        "STRING38": {
+        "description": "Bot String Session",
+        "value": "",
+        "required": false
+      },
+        "STRING39": {
+        "description": "Bot String Session",
+        "value": "",
+        "required": false
+      },
+        "STRING40": {
+        "description": "Bot String Session",
+        "value": "",
+        "required": false
+      },
+        "STRING41": {
+        "description": "Bot String Session",
+        "value": "",
+        "required": false
+      },
+        "STRING42": {
+        "description": "Bot String Session",
+        "value": "",
+        "required": false
+      },
+        "STRING43": {
+        "description": "Bot String Session",
+        "value": "",
+        "required": false
+      },
+        "STRING44": {
+        "description": "Bot String Session",
+        "value": "",
+        "required": false
+      },
+        "STRING45": {
+        "description": "Bot String Session",
+        "value": "",
+        "required": false
+      },
+        "STRING46": {
+        "description": "Bot String Session",
+        "value": "",
+        "required": false
+      },
+        "STRING47": {
+        "description": "Bot String Session",
+        "value": "",
+        "required": false
+      },
+        "STRING48": {
+        "description": "Bot String Session",
+        "value": "",
+        "required": false
+      },
+        "STRING49": {
+        "description": "Bot String Session",
+        "value": "",
+        "required": false
+      },
+        "STRING50": {
+        "description": "Bot String Session",
+        "value": "",
+        "required": false
         "SUDO_USERS": {
         "description": "Sudo Users Id",
         "value": "",
