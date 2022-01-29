@@ -127,7 +127,7 @@ for x in SUDO:
     SMEX_USERS.append(x)
 
 async def start_curse():
-global bot01
+global bot
 global bot02
 global bot03
 global bot04
