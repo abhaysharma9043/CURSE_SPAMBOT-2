@@ -392,7 +392,7 @@ async def start_curse():
         except Exception as e:
             print(e)
             pass
-   else:
+    else:
         print("Session 9 not Found")
         pass
         session_name = "startup"
@@ -417,7 +417,7 @@ async def start_curse():
         except Exception as e:
             print(e)
             pass
-   else:
+    else:
         print("Session 10 not Found")
         pass
         session_name = "startup"
@@ -442,7 +442,7 @@ async def start_curse():
         except Exception as e:
             print(e)
             pass
-   else:
+    else:
         print("Session 11 not Found")
         pass
         session_name = "startup"
@@ -467,7 +467,7 @@ async def start_curse():
         except Exception as e:
             print(e)
             pass
-   else:
+    else:
         print("Session 12 not Found")
         pass
         session_name = "startup"
@@ -517,7 +517,7 @@ async def start_curse():
         except Exception as e:
             print(e)
             pass
-   else:
+    else:
         print("Session 14 not Found")
         pass
         session_name = "startup"
@@ -542,7 +542,7 @@ async def start_curse():
         except Exception as e:
             print(e)
             pass
-   else:
+    else:
         print("Session 15 not Found")
         pass
         session_name = "startup"
@@ -567,7 +567,7 @@ async def start_curse():
         except Exception as e:
             print(e)
             pass
-   else:
+    else:
         print("Session 16 not Found")
         pass
         session_name = "startup"
@@ -592,7 +592,7 @@ async def start_curse():
         except Exception as e:
             print(e)
             pass
-   else:
+    else:
         print("Session 17 not Found")
         pass
         session_name = "startup"
@@ -617,7 +617,7 @@ async def start_curse():
         except Exception as e:
             print(e)
             pass
-   else:
+    else:
         print("Session 18 not Found")
         pass
         session_name = "startup"
@@ -642,7 +642,7 @@ async def start_curse():
         except Exception as e:
             print(e)
             pass
-   else:
+    else:
         print("Session 19 not Found")
         pass
         session_name = "startup"
@@ -667,7 +667,7 @@ async def start_curse():
         except Exception as e:
             print(e)
             pass
-   else:
+    else:
         print("Session 20 not Found")
         pass
         session_name = "startup"
@@ -692,7 +692,7 @@ async def start_curse():
         except Exception as e:
             print(e)
             pass
-   else:
+    else:
         print("Session 21 not Found")
         pass
         session_name = "startup"
@@ -717,7 +717,7 @@ async def start_curse():
         except Exception as e:
             print(e)
             pass
-   else:
+    else:
         print("Session 22 not Found")
         pass
         session_name = "startup"
@@ -742,7 +742,7 @@ async def start_curse():
         except Exception as e:
             print(e)
             pass
-   else:
+    else:
         print("Session 23 not Found")
         pass
         session_name = "startup"
@@ -767,7 +767,7 @@ async def start_curse():
         except Exception as e:
             print(e)
             pass
-   else:
+    else:
         print("Session 24 not Found")
         pass
         session_name = "startup"
@@ -792,7 +792,7 @@ async def start_curse():
         except Exception as e:
             print(e)
             pass
-   else:
+    else:
         print("Session 25 not Found")
         pass
         session_name = "startup"
@@ -817,7 +817,7 @@ async def start_curse():
         except Exception as e:
             print(e)
             pass
-   else:
+    else:
         print("Session 26 not Found")
         pass
         session_name = "startup"
@@ -842,7 +842,7 @@ async def start_curse():
         except Exception as e:
             print(e)
             pass
-   else:
+    else:
         print("Session 27 not Found")
         pass
         session_name = "startup"
@@ -867,7 +867,7 @@ async def start_curse():
         except Exception as e:
             print(e)
             pass
-   else:
+    else:
         print("Session 28 not Found")
         pass
         session_name = "startup"
@@ -892,7 +892,7 @@ async def start_curse():
         except Exception as e:
             print(e)
             pass
-   else:
+    else:
         print("Session 29 not Found")
         pass
         session_name = "startup"
@@ -917,7 +917,7 @@ async def start_curse():
         except Exception as e:
             print(e)
             pass
-   else:
+    else:
         print("Session 30 not Found")
         pass
         session_name = "startup"
@@ -942,7 +942,7 @@ async def start_curse():
         except Exception as e:
             print(e)
             pass
-   else:
+    else:
         print("Session 31 not Found")
         pass
         session_name = "startup"
@@ -967,7 +967,7 @@ async def start_curse():
         except Exception as e:
             print(e)
             pass
-   else:
+    else:
         print("Session 32 not Found")
         pass
         session_name = "startup"
@@ -992,7 +992,7 @@ async def start_curse():
         except Exception as e:
             print(e)
             pass
-   else:
+    else:
         print("Session 33 not Found")
         pass
         session_name = "startup"
@@ -1017,7 +1017,7 @@ async def start_curse():
         except Exception as e:
             print(e)
             pass
-   else:
+    else:
         print("Session 34 not Found")
         pass
         session_name = "startup"
@@ -1042,7 +1042,7 @@ async def start_curse():
         except Exception as e:
             print(e)
             pass
-   else:
+    else:
         print("Session 35 not Found")
         pass
         session_name = "startup"
@@ -1067,7 +1067,7 @@ async def start_curse():
         except Exception as e:
             print(e)
             pass
-   else:
+    else:
         print("Session 36 not Found")
         pass
         session_name = "startup"
@@ -1092,7 +1092,7 @@ async def start_curse():
         except Exception as e:
             print(e)
             pass
-   else:
+    else:
         print("Session 37 not Found")
         pass
         session_name = "startup"
@@ -1117,7 +1117,7 @@ async def start_curse():
         except Exception as e:
             print(e)
             pass
-   else:
+    else:
         print("Session 38 not Found")
         pass
         session_name = "startup"
@@ -1142,7 +1142,7 @@ async def start_curse():
         except Exception as e:
             print(e)
             pass
-   else:
+    else:
         print("Session 39 not Found")
         pass
         session_name = "startup"
@@ -1167,7 +1167,7 @@ async def start_curse():
         except Exception as e:
             print(e)
             pass
-   else:
+    else:
         print("Session 40 not Found")
         pass
         session_name = "startup"
@@ -1217,7 +1217,7 @@ async def start_curse():
         except Exception as e:
             print(e)
             pass
-   else:
+    else:
         print("Session 42 not Found")
         pass
         session_name = "startup"
@@ -1242,7 +1242,7 @@ async def start_curse():
         except Exception as e:
             print(e)
             pass
-   else:
+    else:
         print("Session 43 not Found")
         pass
         session_name = "startup"
@@ -1267,7 +1267,7 @@ async def start_curse():
         except Exception as e:
             print(e)
             pass
-   else:
+    else:
         print("Session 44 not Found")
         pass
         session_name = "startup"
@@ -1292,7 +1292,7 @@ async def start_curse():
         except Exception as e:
             print(e)
             pass
-   else:
+    else:
         print("Session 45 not Found")
         pass
         session_name = "startup"
@@ -1317,7 +1317,7 @@ async def start_curse():
         except Exception as e:
             print(e)
             pass
-   else:
+    else:
         print("Session 46 not Found")
         pass
         session_name = "startup"
@@ -1342,7 +1342,7 @@ async def start_curse():
         except Exception as e:
             print(e)
             pass
-   else:
+    else:
         print("Session 47 not Found")
         pass
         session_name = "startup"
@@ -1367,7 +1367,7 @@ async def start_curse():
         except Exception as e:
             print(e)
             pass
-   else:
+    else:
         print("Session 48 not Found")
         pass
         session_name = "startup"
@@ -1392,7 +1392,7 @@ async def start_curse():
         except Exception as e:
             print(e)
             pass
-   else:
+    else:
         print("Session 49 not Found")
         pass
         session_name = "startup"
@@ -1417,7 +1417,7 @@ async def start_curse():
         except Exception as e:
             print(e)
             pass
-   else:
+    else:
         print("Session 50 not Found")
         pass
         session_name = "startup"
