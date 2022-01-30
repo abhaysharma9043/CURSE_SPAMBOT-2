@@ -318,7 +318,7 @@ async def start_curse():
         except Exception as e:
             print(e)
             pass
-   else:
+    else:
         print("Session 6 not Found")
         pass
         session_name = "startup"
