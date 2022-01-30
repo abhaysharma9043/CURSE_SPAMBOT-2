@@ -178,8 +178,7 @@ async def start_curse():
     global bot48
     global bot49
     global bot50
-
-if one:
+    if one:
         session_name = str(one)
         print("String 1 Found")
         bot = TelegramClient(StringSession(session_name), a, b)
@@ -204,7 +203,7 @@ if one:
         except Exception as e:
             pass
 
-if two:
+    if two:
         session_name = str(two)
         print("String 2 Found")
         bot02 = TelegramClient(StringSession(session_name), a, b)
@@ -229,7 +228,7 @@ if two:
         except Exception as e:
             pass
 
-if three:
+    if three:
         session_name = str(three)
         print("String 3 Found")
         bot03 = TelegramClient(StringSession(session_name), a, b)
@@ -254,7 +253,7 @@ if three:
         except Exception as e:
             pass
 
-if four:
+    if four:
         session_name = str(four)
         print("String 4 Found")
         bot04 = TelegramClient(StringSession(session_name), a, b)
@@ -279,7 +278,7 @@ if four:
         except Exception as e:
             pass
 
-if five:
+    if five:
         session_name = str(five)
         print("String 5 Found")
         bot05 = TelegramClient(StringSession(session_name), a, b)
