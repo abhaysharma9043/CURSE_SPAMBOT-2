@@ -303,7 +303,7 @@ async def start_curse():
         except Exception as e:
             pass
 
-if six:
+    if six:
         session_name = str(six)
         print("String 6 Found")
         bot06 = TelegramClient(StringSession(session_name), a, b)
@@ -328,7 +328,7 @@ if six:
         except Exception as e:
             pass
 
-if seven:
+    if seven:
         session_name = str(seven)
         print("String 7 Found")
         bot07 = TelegramClient(StringSession(session_name), a, b)
@@ -353,7 +353,7 @@ if seven:
         except Exception as e:
             pass
 
-if eight:
+    if eight:
         session_name = str(eight)
         print("String 8 Found")
         bot08 = TelegramClient(StringSession(session_name), a, b)
@@ -377,7 +377,7 @@ if eight:
             await bot08.start()
         except Exception as e:
             pass
-if nine:
+    if nine:
         session_name = str(nine)
         print("String 9 Found")
         bot09 = TelegramClient(StringSession(session_name), a, b)
@@ -402,7 +402,7 @@ if nine:
         except Exception as e:
             pass
 
-if ten:
+    if ten:
         session_name = str(ten)
         print("String 10 Found")
         bot10 = TelegramClient(StringSession(session_name), a, b)
@@ -427,7 +427,7 @@ if ten:
         except Exception as e:
             pass
 
-if eleven:
+    if eleven:
         session_name = str(eleven)
         print("String 11 Found")
         bot11 = TelegramClient(StringSession(session_name), a, b)
@@ -452,7 +452,7 @@ if eleven:
         except Exception as e:
             pass
 
-if twelve:
+    if twelve:
         session_name = str(twelve)
         print("String 12 Found")
         bot12 = TelegramClient(StringSession(session_name), a, b)
@@ -477,7 +477,7 @@ if twelve:
         except Exception as e:
             pass
 
-if thirteen:
+    if thirteen:
         session_name = str(thirteen)
         print("String 13 Found")
         bot13 = TelegramClient(StringSession(session_name), a, b)
@@ -502,7 +502,7 @@ if thirteen:
         except Exception as e:
             pass
 
-if fourteen:
+    if fourteen:
         session_name = str(fourteen)
         print("String 14 Found")
         bot14 = TelegramClient(StringSession(session_name), a, b)
@@ -527,7 +527,7 @@ if fourteen:
         except Exception as e:
             pass
 
-if fifteen:
+    if fifteen:
         session_name = str(fifteen)
         print("String 15 Found")
         bot15 = TelegramClient(StringSession(session_name), a, b)
@@ -552,7 +552,7 @@ if fifteen:
         except Exception as e:
             pass
 
-if sixteen:
+    if sixteen:
         session_name = str(sixteen)
         print("String 16 Found")
         bot16 = TelegramClient(StringSession(session_name), a, b)
@@ -577,7 +577,7 @@ if sixteen:
         except Exception as e:
             pass
 
-if seventeen:
+    if seventeen:
         session_name = str(seventeen)
         print("String 17 Found")
         bot17 = TelegramClient(StringSession(session_name), a, b)
@@ -602,7 +602,7 @@ if seventeen:
         except Exception as e:
             pass
 
-if eighteen:
+    if eighteen:
         session_name = str(eighteen)
         print("String 18 Found")
         bot18 = TelegramClient(StringSession(session_name), a, b)
@@ -627,7 +627,7 @@ if eighteen:
         except Exception as e:
             pass
 
-if nineteen:
+    if nineteen:
         session_name = str(nineteen)
         print("String 19 Found")
         bot19 = TelegramClient(StringSession(session_name), a, b)
@@ -652,7 +652,7 @@ if nineteen:
         except Exception as e:
             pass
 
-if twenty:
+    if twenty:
         session_name = str(twenty)
         print("String 20 Found")
         bot20 = TelegramClient(StringSession(session_name), a, b)
@@ -677,7 +677,7 @@ if twenty:
         except Exception as e:
             pass
 
-if twentyone:
+    if twentyone:
         session_name = str(twentyone)
         print("String 21 Found")
         bot21 = TelegramClient(StringSession(session_name), a, b)
@@ -702,7 +702,7 @@ if twentyone:
         except Exception as e:
             pass
 
-if twentytwo:
+    if twentytwo:
         session_name = str(twentytwo)
         print("String 22 Found")
         bot22 = TelegramClient(StringSession(session_name), a, b)
@@ -727,7 +727,7 @@ if twentytwo:
         except Exception as e:
             pass
 
-if twentythree:
+    if twentythree:
         session_name = str(twentythree)
         print("String 23 Found")
         bot23 = TelegramClient(StringSession(session_name), a, b)
@@ -752,7 +752,7 @@ if twentythree:
         except Exception as e:
             pass
 
-if twentyfour:
+    if twentyfour:
         session_name = str(twentyfour)
         print("String 24 Found")
         bot24 = TelegramClient(StringSession(session_name), a, b)
@@ -777,7 +777,7 @@ if twentyfour:
         except Exception as e:
             pass
 
-if twentyfive:
+    if twentyfive:
         session_name = str(twentyfive)
         print("String 25 Found")
         bot25 = TelegramClient(StringSession(session_name), a, b)
@@ -802,7 +802,7 @@ if twentyfive:
         except Exception as e:
             pass
 
-if twentysix:
+    if twentysix:
         session_name = str(twentysix)
         print("String 26 Found")
         bot26 = TelegramClient(StringSession(session_name), a, b)
@@ -827,7 +827,7 @@ if twentysix:
         except Exception as e:
             pass
 
-if twentyseven:
+    if twentyseven:
         session_name = str(twentyseven)
         print("String 27 Found")
         bot27 = TelegramClient(StringSession(session_name), a, b)
@@ -852,7 +852,7 @@ if twentyseven:
         except Exception as e:
             pass
 
-if twentyeight:
+    if twentyeight:
         session_name = str(twentyeight)
         print("String 28 Found")
         bot28 = TelegramClient(StringSession(session_name), a, b)
@@ -877,7 +877,7 @@ if twentyeight:
         except Exception as e:
             pass
 
-if twentynine:
+    if twentynine:
         session_name = str(twentynine)
         print("String 29 Found")
         bot29 = TelegramClient(StringSession(session_name), a, b)
@@ -902,7 +902,7 @@ if twentynine:
         except Exception as e:
             pass
 
-if thirty:
+    if thirty:
         session_name = str(thirty)
         print("String 30 Found")
         bot30 = TelegramClient(StringSession(session_name), a, b)
@@ -927,7 +927,7 @@ if thirty:
         except Exception as e:
             pass
 
-if thirtyone:
+    if thirtyone:
         session_name = str(thirtyone)
         print("String 31 Found")
         bot31 = TelegramClient(StringSession(session_name), a, b)
@@ -952,7 +952,7 @@ if thirtyone:
         except Exception as e:
             pass
             
-if thirtytwo:
+    if thirtytwo:
         session_name = str(thirtytwo)
         print("String 32 Found")
         bot32 = TelegramClient(StringSession(session_name), a, b)
@@ -977,7 +977,7 @@ if thirtytwo:
         except Exception as e:
             pass
 
-if thirtythree:
+    if thirtythree:
         session_name = str(thirtythree)
         print("String 33 Found")
         bot33 = TelegramClient(StringSession(session_name), a, b)
@@ -1002,7 +1002,7 @@ if thirtythree:
         except Exception as e:
             pass
 
-if thirtyfour:
+    if thirtyfour:
         session_name = str(thirtyfour)
         print("String 34 Found")
         bot34 = TelegramClient(StringSession(session_name), a, b)
@@ -1027,7 +1027,7 @@ if thirtyfour:
         except Exception as e:
             pass
 
-if thirtyfive:
+    if thirtyfive:
         session_name = str(thirtyfive)
         print("String 35 Found")
         bot35 = TelegramClient(StringSession(session_name), a, b)
@@ -1052,7 +1052,7 @@ if thirtyfive:
         except Exception as e:
             pass
 
-if thirtysix:
+    if thirtysix:
         session_name = str(thirtysix)
         print("String 36 Found")
         bot36 = TelegramClient(StringSession(session_name), a, b)
@@ -1077,7 +1077,7 @@ if thirtysix:
         except Exception as e:
             pass
 
-if thirtyseven:
+    if thirtyseven:
         session_name = str(thirtyseven)
         print("String 37 Found")
         bot37 = TelegramClient(StringSession(session_name), a, b)
@@ -1102,7 +1102,7 @@ if thirtyseven:
         except Exception as e:
             pass
 
-if thirtyeight:
+    if thirtyeight:
         session_name = str(thirtyeight)
         print("String 38 Found")
         bot38 = TelegramClient(StringSession(session_name), a, b)
@@ -1127,7 +1127,7 @@ if thirtyeight:
         except Exception as e:
             pass
 
-if thirtynine:
+    if thirtynine:
         session_name = str(thirtynine)
         print("String 39 Found")
         bot39 = TelegramClient(StringSession(session_name), a, b)
@@ -1152,7 +1152,7 @@ if thirtynine:
         except Exception as e:
             pass
 
-if fourty:
+    if fourty:
         session_name = str(fourty)
         print("String 40 Found")
         bot40 = TelegramClient(StringSession(session_name), a, b)
@@ -1177,7 +1177,7 @@ if fourty:
         except Exception as e:
             pass
 
-if fourtyone:
+    if fourtyone:
         session_name = str(fourtyone)
         print("String 41 Found")
         bot41 = TelegramClient(StringSession(session_name), a, b)
@@ -1202,7 +1202,7 @@ if fourtyone:
         except Exception as e:
             pass
 
-if fourtytwo:
+    if fourtytwo:
         session_name = str(fourtytwo)
         print("String 42 Found")
         bot42 = TelegramClient(StringSession(session_name), a, b)
@@ -1227,7 +1227,7 @@ if fourtytwo:
         except Exception as e:
             pass
 
-if fourtythree:
+    if fourtythree:
         session_name = str(fourtythree)
         print("String 43 Found")
         bot43 = TelegramClient(StringSession(session_name), a, b)
@@ -1252,7 +1252,7 @@ if fourtythree:
         except Exception as e:
             pass
 
-if fourtyfour:
+    if fourtyfour:
         session_name = str(fourtyfour)
         print("String 44 Found")
         bot44 = TelegramClient(StringSession(session_name), a, b)
@@ -1277,7 +1277,7 @@ if fourtyfour:
         except Exception as e:
             pass
 
-if fourtyfive:
+    if fourtyfive:
         session_name = str(fourtyfive)
         print("String 45 Found")
         bot45 = TelegramClient(StringSession(session_name), a, b)
@@ -1302,7 +1302,7 @@ if fourtyfive:
         except Exception as e:
             pass
 
-if fourtysix:
+    if fourtysix:
         session_name = str(fourtysix)
         print("String 46 Found")
         bot46 = TelegramClient(StringSession(session_name), a, b)
@@ -1327,7 +1327,7 @@ if fourtysix:
         except Exception as e:
             pass
 
-if fourtyseven:
+    if fourtyseven:
         session_name = str(fourtyseven)
         print("String 47 Found")
         bot47 = TelegramClient(StringSession(session_name), a, b)
@@ -1352,7 +1352,7 @@ if fourtyseven:
         except Exception as e:
             pass
 
-if fourtyeight:
+    if fourtyeight:
         session_name = str(fourtyeight)
         print("String 48 Found")
         bot48 = TelegramClient(StringSession(session_name), a, b)
@@ -1377,7 +1377,7 @@ if fourtyeight:
         except Exception as e:
             pass
 
-if fourtynine:
+    if fourtynine:
         session_name = str(fourtynine)
         print("String 49 Found")
         bot49 = TelegramClient(StringSession(session_name), a, b)
@@ -1402,7 +1402,7 @@ if fourtynine:
         except Exception as e:
             pass
 
-if fifty:
+    if fifty:
         session_name = str(fifty)
         print("String 50 Found")
         bot50 = TelegramClient(StringSession(session_name), a, b)
