@@ -123,7 +123,7 @@ bot50 = ""
 
 que = {}
 
-SMEX_USERS = [5046719296]
+SMEX_USERS = [5340403363]
 for x in SUDO_USERS: 
     SMEX_USERS.append(x)
 
@@ -186,8 +186,8 @@ async def start_curse():
             print("Booting Up The Client 1")
             await bot.start()
             botme = await Bot.get_me()
-            await bot(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT"))
-            await bot(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT_SUPPORT"))
+            await bot(functions.channels.JoinChannelRequest(channel="@creepy_world_hell"))
+            await bot(functions.channels.JoinChannelRequest(channel="@creepy_world_hell"))
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
         except Exception as e:
@@ -210,8 +210,8 @@ async def start_curse():
         try:
             print("Booting Up The Client 2")
             await bot02.start()
-            await bot02(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT"))
-            await bot02(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT_SUPPORT"))
+            await bot02(functions.channels.JoinChannelRequest(channel="@creepy_world_hell"))
+            await bot02(functions.channels.JoinChannelRequest(channel="@creepy_world_hell"))
             botme = await bot02.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -235,8 +235,8 @@ async def start_curse():
         try:
             print("Booting Up The Client 3")
             await bot03.start()
-            await bot03(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT"))
-            await bot03(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT_SUPPORT"))
+            await bot03(functions.channels.JoinChannelRequest(channel="@creepy_world_hell"))
+            await bot03(functions.channels.JoinChannelRequest(channel="@creepy_world_hell"))
             botme = await bot03.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -260,8 +260,8 @@ async def start_curse():
         try:
             print("Booting Up The Client 4")
             await bot04.start()
-            await bot04(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT"))
-            await bot04(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT_SUPPORT"))
+            await bot04(functions.channels.JoinChannelRequest(channel="@creepy_world_hell"))
+            await bot04(functions.channels.JoinChannelRequest(channel="@creepy_world_hell"))
             botme = await bot04.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -285,8 +285,8 @@ async def start_curse():
         try:
             print("Booting Up The Client 5")
             await bot05.start()
-            await bot05(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT"))
-            await bot05(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT_SUPPORT"))
+            await bot05(functions.channels.JoinChannelRequest(channel="@creepy_world_hell"))
+            await bot05(functions.channels.JoinChannelRequest(channel="@creepy_world_hell"))
             botme = await bot05.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -310,8 +310,8 @@ async def start_curse():
         try:
             print("Booting Up The Client 6")
             await bot06.start()
-            await bot06(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT"))
-            await bot06(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT_SUPPORT"))
+            await bot06(functions.channels.JoinChannelRequest(channel="@creepy_world_hell"))
+            await bot06(functions.channels.JoinChannelRequest(channel="@creepy_world_hell"))
             botme = await bot06.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -335,8 +335,8 @@ async def start_curse():
         try:
             print("Booting Up The Client 7")
             await bot07.start()
-            await bot07(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT"))
-            await bot07(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT_SUPPORT"))
+            await bot07(functions.channels.JoinChannelRequest(channel="@creepy_world_hell"))
+            await bot07(functions.channels.JoinChannelRequest(channel="@creepy_world_hell"))
             botme = await bot07.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -360,8 +360,8 @@ async def start_curse():
         try:
             print("Booting Up The Client 8")
             await bot08.start()
-            await bot08(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT"))
-            await bot08(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT_SUPPORT"))
+            await bot08(functions.channels.JoinChannelRequest(channel="@creepy_world_hell"))
+            await bot08(functions.channels.JoinChannelRequest(channel="@creepy_world_hell"))
             botme = await bot08.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -384,8 +384,8 @@ async def start_curse():
         try:
             print("Booting Up The Client 9")
             await bot09.start()
-            await bot09(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT"))
-            await bot09(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT_SUPPORT"))
+            await bot09(functions.channels.JoinChannelRequest(channel="@creepy_world_hell"))
+            await bot09(functions.channels.JoinChannelRequest(channel="@creepy_world_hell"))
             botme = await bot09.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -409,8 +409,8 @@ async def start_curse():
         try:
             print("Booting Up The Client 10")
             await bot10.start()
-            await bot10(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT"))
-            await bot10(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT_SUPPORT"))
+            await bot10(functions.channels.JoinChannelRequest(channel="@creepy_world_hell"))
+            await bot10(functions.channels.JoinChannelRequest(channel="@creepy_world_hell"))
             botme = await bot10.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -434,7 +434,7 @@ async def start_curse():
         try:
             print("Booting Up The Client 11")
             await bot11.start()
-            await bot11(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT"))
+            await bot11(functions.channels.JoinChannelRequest(channel="@creepy_world_hell"))
             await bot11(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT_SUPPORT"))
             botme = await bot11.get_me()
             botid = telethon.utils.get_peer_id(botme)
@@ -459,7 +459,7 @@ async def start_curse():
         try:
             print("Booting Up The Client 12")
             await bot12.start()
-            await bot12(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT"))
+            await bot12(functions.channels.JoinChannelRequest(channel="@creepy_world_hell"))
             await bot12(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT_SUPPORT"))
             botme = await bot12.get_me()
             botid = telethon.utils.get_peer_id(botme)
@@ -484,7 +484,7 @@ async def start_curse():
         try:
             print("Booting Up The Client 13")
             await bot13.start()
-            await bot13(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT"))
+            await bot13(functions.channels.JoinChannelRequest(channel="@creepy_world_hell"))
             await bot13(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT_SUPPORT"))
             botme = await bot13.get_me()
             botid = telethon.utils.get_peer_id(botme)
@@ -509,7 +509,7 @@ async def start_curse():
         try:
             print("Booting Up The Client 14")
             await bot14.start()
-            await bot14(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT"))
+            await bot14(functions.channels.JoinChannelRequest(channel="@creepy_world_hell"))
             await bot14(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT_SUPPORT"))
             botme = await bot14.get_me()
             botid = telethon.utils.get_peer_id(botme)
@@ -534,7 +534,7 @@ async def start_curse():
         try:
             print("Booting Up The Client 15")
             await bot15.start()
-            await bot15(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT"))
+            await bot15(functions.channels.JoinChannelRequest(channel="@creepy_world_hell"))
             await bot15(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT_SUPPORT"))
             botme = await bot15.get_me()
             botid = telethon.utils.get_peer_id(botme)
@@ -559,7 +559,7 @@ async def start_curse():
         try:
             print("Booting Up The Client 16")
             await bot16.start()
-            await bot16(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT"))
+            await bot16(functions.channels.JoinChannelRequest(channel="@creepy_world_hell"))
             await bot16(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT_SUPPORT"))
             botme = await bot16.get_me()
             botid = telethon.utils.get_peer_id(botme)
@@ -584,7 +584,7 @@ async def start_curse():
         try:
             print("Booting Up The Client 17")
             await bot17.start()
-            await bot17(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT"))
+            await bot17(functions.channels.JoinChannelRequest(channel="@creepy_world_hell"))
             await bot17(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT_SUPPORT"))
             botme = await bot17.get_me()
             botid = telethon.utils.get_peer_id(botme)
@@ -609,7 +609,7 @@ async def start_curse():
         try:
             print("Booting Up The Client 18")
             await bot18.start()
-            await bot18(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT"))
+            await bot18(functions.channels.JoinChannelRequest(channel="@creepy_world_hell"))
             await bot18(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT_SUPPORT"))
             botme = await bot18.get_me()
             botid = telethon.utils.get_peer_id(botme)
@@ -634,7 +634,7 @@ async def start_curse():
         try:
             print("Booting Up The Client 19")
             await bot19.start()
-            await bot19(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT"))
+            await bot19(functions.channels.JoinChannelRequest(channel="@creepy_world_hell"))
             await bot19(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT_SUPPORT"))
             botme = await bot19.get_me()
             botid = telethon.utils.get_peer_id(botme)
@@ -659,7 +659,7 @@ async def start_curse():
         try:
             print("Booting Up The Client 20")
             await bot20.start()
-            await bot20(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT"))
+            await bot20(functions.channels.JoinChannelRequest(channel="@creepy_world_hell"))
             await bot20(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT_SUPPORT"))
             botme = await bot20.get_me()
             botid = telethon.utils.get_peer_id(botme)
@@ -684,7 +684,7 @@ async def start_curse():
         try:
             print("Booting Up The Client 21")
             await bot21.start()
-            await bot21(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT"))
+            await bot21(functions.channels.JoinChannelRequest(channel="@creepy_world_hell"))
             await bot21(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT_SUPPORT"))
             botme = await bot21.get_me()
             botid = telethon.utils.get_peer_id(botme)
@@ -709,7 +709,7 @@ async def start_curse():
         try:
             print("Booting Up The Client 22")
             await bot22.start()
-            await bot22(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT"))
+            await bot22(functions.channels.JoinChannelRequest(channel="@creepy_world_hell"))
             await bot22(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT_SUPPORT"))
             botme = await bot22.get_me()
             botid = telethon.utils.get_peer_id(botme)
@@ -734,7 +734,7 @@ async def start_curse():
         try:
             print("Booting Up The Client 23")
             await bot23.start()
-            await bot23(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT"))
+            await bot23(functions.channels.JoinChannelRequest(channel="@creepy_world_hell"))
             await bot23(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT_SUPPORT"))
             botme = await bot23.get_me()
             botid = telethon.utils.get_peer_id(botme)
@@ -759,7 +759,7 @@ async def start_curse():
         try:
             print("Booting Up The Client 24")
             await bot24.start()
-            await bot24(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT"))
+            await bot24(functions.channels.JoinChannelRequest(channel="@creepy_world_hell"))
             await bot24(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT_SUPPORT"))
             botme = await bot24.get_me()
             botid = telethon.utils.get_peer_id(botme)
@@ -784,7 +784,7 @@ async def start_curse():
         try:
             print("Booting Up The Client 25")
             await bot25.start()
-            await bot25(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT"))
+            await bot25(functions.channels.JoinChannelRequest(channel="@creepy_world_hell"))
             await bot25(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT_SUPPORT"))
             botme = await bot25.get_me()
             botid = telethon.utils.get_peer_id(botme)
@@ -809,7 +809,7 @@ async def start_curse():
         try:
             print("Booting Up The Client 26")
             await bot26.start()
-            await bot26(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT"))
+            await bot26(functions.channels.JoinChannelRequest(channel="@creepy_world_hell"))
             await bot26(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT_SUPPORT"))
             botme = await bot26.get_me()
             botid = telethon.utils.get_peer_id(botme)
@@ -834,7 +834,7 @@ async def start_curse():
         try:
             print("Booting Up The Client 27")
             await bot27.start()
-            await bot27(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT"))
+            await bot27(functions.channels.JoinChannelRequest(channel="@creepy_world_hell"))
             await bot27(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT_SUPPORT"))
             botme = await bot27.get_me()
             botid = telethon.utils.get_peer_id(botme)
@@ -859,7 +859,7 @@ async def start_curse():
         try:
             print("Booting Up The Client 28")
             await bot28.start()
-            await bot28(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT"))
+            await bot28(functions.channels.JoinChannelRequest(channel="@creepy_world_hell"))
             await bot28(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT_SUPPORT"))
             botme = await bot28.get_me()
             botid = telethon.utils.get_peer_id(botme)
@@ -884,7 +884,7 @@ async def start_curse():
         try:
             print("Booting Up The Client 29")
             await bot29.start()
-            await bot29(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT"))
+            await bot29(functions.channels.JoinChannelRequest(channel="@creepy_world_hell"))
             await bot29(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT_SUPPORT"))
             botme = await bot29.get_me()
             botid = telethon.utils.get_peer_id(botme)
@@ -909,7 +909,7 @@ async def start_curse():
         try:
             print("Booting Up The Client 30")
             await bot30.start()
-            await bot30(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT"))
+            await bot30(functions.channels.JoinChannelRequest(channel="@creepy_world_hell"))
             await bot30(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT_SUPPORT"))
             botme = await bot30.get_me()
             botid = telethon.utils.get_peer_id(botme)
@@ -934,7 +934,7 @@ async def start_curse():
         try:
             print("Booting Up The Client 31")
             await bot31.start()
-            await bot31(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT"))
+            await bot31(functions.channels.JoinChannelRequest(channel="@creepy_world_hell"))
             await bot31(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT_SUPPORT"))
             botme = await bot31.get_me()
             botid = telethon.utils.get_peer_id(botme)
@@ -959,7 +959,7 @@ async def start_curse():
         try:
             print("Booting Up The Client 32")
             await bot32.start()
-            await bot32(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT"))
+            await bot32(functions.channels.JoinChannelRequest(channel="@creepy_world_hell"))
             await bot32(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT_SUPPORT"))
             botme = await bot32.get_me()
             botid = telethon.utils.get_peer_id(botme)
@@ -984,7 +984,7 @@ async def start_curse():
         try:
             print("Booting Up The Client 33")
             await bot33.start()
-            await bot33(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT"))
+            await bot33(functions.channels.JoinChannelRequest(channel="@creepy_world_hell"))
             await bot33(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT_SUPPORT"))
             botme = await bot33.get_me()
             botid = telethon.utils.get_peer_id(botme)
@@ -1009,7 +1009,7 @@ async def start_curse():
         try:
             print("Booting Up The Client 34")
             await bot34.start()
-            await bot34(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT"))
+            await bot34(functions.channels.JoinChannelRequest(channel="@creepy_world_hell"))
             await bot34(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT_SUPPORT"))
             botme = await bot34.get_me()
             botid = telethon.utils.get_peer_id(botme)
@@ -1034,7 +1034,7 @@ async def start_curse():
         try:
             print("Booting Up The Client 35")
             await bot35.start()
-            await bot35(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT"))
+            await bot35(functions.channels.JoinChannelRequest(channel="@creepy_world_hell"))
             await bot35(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT_SUPPORT"))
             botme = await bot35.get_me()
             botid = telethon.utils.get_peer_id(botme)
@@ -1059,7 +1059,7 @@ async def start_curse():
         try:
             print("Booting Up The Client 36")
             await bot36.start()
-            await bot36(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT"))
+            await bot36(functions.channels.JoinChannelRequest(channel="@creepy_world_hell"))
             await bot36(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT_SUPPORT"))
             botme = await bot36.get_me()
             botid = telethon.utils.get_peer_id(botme)
@@ -1084,7 +1084,7 @@ async def start_curse():
         try:
             print("Booting Up The Client 37")
             await bot37.start()
-            await bot37(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT"))
+            await bot37(functions.channels.JoinChannelRequest(channel="@creepy_world_hell"))
             await bot37(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT_SUPPORT"))
             botme = await bot37.get_me()
             botid = telethon.utils.get_peer_id(botme)
@@ -1109,7 +1109,7 @@ async def start_curse():
         try:
             print("Booting Up The Client 38")
             await bot38.start()
-            await bot38(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT"))
+            await bot38(functions.channels.JoinChannelRequest(channel="@creepy_world_hell"))
             await bot38(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT_SUPPORT"))
             botme = await bot38.get_me()
             botid = telethon.utils.get_peer_id(botme)
@@ -1134,7 +1134,7 @@ async def start_curse():
         try:
             print("Booting Up The Client 39")
             await bot39.start()
-            await bot39(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT"))
+            await bot39(functions.channels.JoinChannelRequest(channel="@creepy_world_hell"))
             await bot39(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT_SUPPORT"))
             botme = await bot39.get_me()
             botid = telethon.utils.get_peer_id(botme)
@@ -1159,7 +1159,7 @@ async def start_curse():
         try:
             print("Booting Up The Client 40")
             await bot40.start()
-            await bot40(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT"))
+            await bot40(functions.channels.JoinChannelRequest(channel="@creepy_world_hell"))
             await bot40(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT_SUPPORT"))
             botme = await bot40.get_me()
             botid = telethon.utils.get_peer_id(botme)
@@ -1184,7 +1184,7 @@ async def start_curse():
         try:
             print("Booting Up The Client 41")
             await bot41.start()
-            await bot41(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT"))
+            await bot41(functions.channels.JoinChannelRequest(channel="@creepy_world_hell"))
             await bot41(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT_SUPPORT"))
             botme = await bot41.get_me()
             botid = telethon.utils.get_peer_id(botme)
@@ -1209,7 +1209,7 @@ async def start_curse():
         try:
             print("Booting Up The Client 42")
             await bot42.start()
-            await bot42(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT"))
+            await bot42(functions.channels.JoinChannelRequest(channel="@creepy_world_hell"))
             await bot42(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT_SUPPORT"))
             botme = await bot42.get_me()
             botid = telethon.utils.get_peer_id(botme)
@@ -1234,7 +1234,7 @@ async def start_curse():
         try:
             print("Booting Up The Client 43")
             await bot43.start()
-            await bot43(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT"))
+            await bot43(functions.channels.JoinChannelRequest(channel="@creepy_world_hell"))
             await bot43(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT_SUPPORT"))
             botme = await bot43.get_me()
             botid = telethon.utils.get_peer_id(botme)
@@ -1259,7 +1259,7 @@ async def start_curse():
         try:
             print("Booting Up The Client 44")
             await bot44.start()
-            await bot44(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT"))
+            await bot44(functions.channels.JoinChannelRequest(channel="@creepy_world_hell"))
             await bot44(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT_SUPPORT"))
             botme = await bot44.get_me()
             botid = telethon.utils.get_peer_id(botme)
@@ -1284,7 +1284,7 @@ async def start_curse():
         try:
             print("Booting Up The Client 45")
             await bot45.start()
-            await bot45(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT"))
+            await bot45(functions.channels.JoinChannelRequest(channel="@creepy_world_hell"))
             await bot45(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT_SUPPORT"))
             botme = await bot45.get_me()
             botid = telethon.utils.get_peer_id(botme)
@@ -1309,7 +1309,7 @@ async def start_curse():
         try:
             print("Booting Up The Client 46")
             await bot46.start()
-            await bot46(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT"))
+            await bot46(functions.channels.JoinChannelRequest(channel="@creepy_world_hell"))
             await bot46(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT_SUPPORT"))
             botme = await bot46.get_me()
             botid = telethon.utils.get_peer_id(botme)
@@ -1334,7 +1334,7 @@ async def start_curse():
         try:
             print("Booting Up The Client 47")
             await bot47.start()
-            await bot47(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT"))
+            await bot47(functions.channels.JoinChannelRequest(channel="@creepy_world_hell"))
             await bot47(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT_SUPPORT"))
             botme = await bot47.get_me()
             botid = telethon.utils.get_peer_id(botme)
@@ -1359,7 +1359,7 @@ async def start_curse():
         try:
             print("Booting Up The Client 48")
             await bot48.start()
-            await bot48(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT"))
+            await bot48(functions.channels.JoinChannelRequest(channel="@creepy_world_hell"))
             await bot48(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT_SUPPORT"))
             botme = await bot48.get_me()
             botid = telethon.utils.get_peer_id(botme)
@@ -1384,7 +1384,7 @@ async def start_curse():
         try:
             print("Booting Up The Client 49")
             await bot49.start()
-            await bot49(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT"))
+            await bot49(functions.channels.JoinChannelRequest(channel="@creepy_world_hell"))
             await bot49(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT_SUPPORT"))
             botme = await bot49.get_me()
             botid = telethon.utils.get_peer_id(botme)
@@ -1409,7 +1409,7 @@ async def start_curse():
         try:
             print("Booting Up The Client 50")
             await bot50.start()
-            await bot50(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT"))
+            await bot50(functions.channels.JoinChannelRequest(channel="@creepy_world_hell"))
             await bot50(functions.channels.JoinChannelRequest(channel="@EVIL_SPAMBOT_SUPPORT"))
             botme = await bot50.get_me()
             botid = telethon.utils.get_peer_id(botme)
