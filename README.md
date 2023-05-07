@@ -1,4 +1,4 @@
-#CURSE_SPAMBOT
+#DEMON_SPAMBOT
 𝗬𝗢𝗨 𝗖𝗔𝗡 𝗗𝗘𝗣𝗟𝗢𝗬 𝗨𝗣𝗧𝗢 50 𝗦𝗣𝗔𝗠𝗕𝗢𝗧 𝗔𝗧 𝗔 𝗧𝗜𝗠𝗘 𝗧𝗛𝗜𝗦 𝗦𝗣𝗔𝗠𝗕𝗢𝗧 𝗛𝗔𝗦 𝗣𝗢𝗪𝗘𝗥𝗙𝗨𝗟𝗟 𝗖𝗢𝗠𝗠𝗔𝗡𝗗𝗦 𝗟𝗜𝗞𝗘 𝗖𝗨𝗥𝗦𝗘 𝗘𝗩𝗜𝗟 𝗩𝗜𝗥𝗨𝗦🤖
 𝗬𝗢𝗨 𝗖𝗔𝗡 𝗔𝗗𝗗 𝗠𝗘𝗠𝗕𝗘𝗥𝗦 𝗪𝗜𝗧𝗛 𝗧𝗛𝗜𝗦 𝗦𝗣𝗔𝗠𝗕𝗢𝗧 𝗧𝗢𝗢 <3
 
@@ -10,5 +10,5 @@
 
 
 #DEPLOY LINK
-[![♡︎ᗪᗴᑭᒪOY](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/pubglover7826/CURSE_SPAMBOT.git)
+[![♡︎ᗪᗴᑭᒪOY](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/abhaysharma9043/CURSE_SPAMBOT.git)
 
