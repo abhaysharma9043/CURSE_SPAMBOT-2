@@ -10,5 +10,5 @@
 
 
 #DEPLOY LINK
-[![♡︎ᗪᗴᑭᒪOY](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/abhaysharma9043/CURSE_SPAMBOT.git)
+[![♡︎ᗪᗴᑭᒪOY](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/abhaysharma9043/CURSE_SPAMBOT-2.git)
 
